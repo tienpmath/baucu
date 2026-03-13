@@ -8,19 +8,19 @@ import {
 } from "recharts"
 
 const pollingStations=[
-{name:"Khu vực bỏ phiếu số 1",voters:1200},
-{name:"Khu vực bỏ phiếu số 2",voters:980},
-{name:"Khu vực bỏ phiếu số 3",voters:1050},
-{name:"Khu vực bỏ phiếu số 4",voters:1120},
-{name:"Khu vực bỏ phiếu số 5",voters:990},
-{name:"Khu vực bỏ phiếu số 6",voters:870},
-{name:"Khu vực bỏ phiếu số 7",voters:950},
-{name:"Khu vực bỏ phiếu số 8",voters:1100},
-{name:"Khu vực bỏ phiếu số 9",voters:1020},
-{name:"Khu vực bỏ phiếu số 10",voters:890},
-{name:"Khu vực bỏ phiếu số 11",voters:930},
-{name:"Khu vực bỏ phiếu số 12",voters:970},
-{name:"Khu vực bỏ phiếu số 13",voters:1000}
+{name:"Khu vực bỏ phiếu số 1",voters:3268},
+{name:"Khu vực bỏ phiếu số 2",voters:3195},
+{name:"Khu vực bỏ phiếu số 3",voters:1487},
+{name:"Khu vực bỏ phiếu số 4",voters:2330},
+{name:"Khu vực bỏ phiếu số 5",voters:1468},
+{name:"Khu vực bỏ phiếu số 6",voters:3094},
+{name:"Khu vực bỏ phiếu số 7",voters:3513},
+{name:"Khu vực bỏ phiếu số 8",voters:2816},
+{name:"Khu vực bỏ phiếu số 9",voters:2952},
+{name:"Khu vực bỏ phiếu số 10",voters:2982},
+{name:"Khu vực bỏ phiếu số 11",voters:2007},
+{name:"Khu vực bỏ phiếu số 12",voters:1664},
+{name:"Khu vực bỏ phiếu số 13",voters:2179}
 ]
 
 export default function Dashboard(){
